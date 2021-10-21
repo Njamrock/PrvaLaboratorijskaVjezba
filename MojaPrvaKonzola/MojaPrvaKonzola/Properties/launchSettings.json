@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MojaPrvaKonzola": {
+      "commandName": "Project",
+      "commandLineArgs": "2 * 3"
+    }
+  }
+}
